@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:49834",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\ASUS TUF\\source\\repos\\FlowTask\\FlowTask.Server\\..\\flowtask.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

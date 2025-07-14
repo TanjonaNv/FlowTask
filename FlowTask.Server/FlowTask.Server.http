@@ -1,0 +1,6 @@
+@FlowTask.Server_HostAddress = http://localhost:5194
+
+GET {{FlowTask.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
