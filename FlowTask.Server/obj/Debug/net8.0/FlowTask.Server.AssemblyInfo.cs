@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlowTask.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7692bee52ca0d488b242d164e77729a8edfc7b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea515781ccfe2ab7d975f996bffb91ef2bd609d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlowTask.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlowTask.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

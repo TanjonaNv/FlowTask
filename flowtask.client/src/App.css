@@ -5,4 +5,18 @@
 
 @theme {
   --font-inter: "Inter", sans-serif; 
+  --breakpoint-esmall: 400px;
 }
+@layer utilities{
+  .burger-toggle{
+    @apply [&>div]:h-0 [&>div]:bg-white [&>div]:before:translate-y-0 
+    [&>div]:before:rotate-45 [&>div]:after:translate-y-0 
+    [&>div]:after:-rotate-45;
+  }
+}
+
+/*light blue task: #16badc */
+
+/* purple task : #7772e1 */
+
+/* dark blue task: #243a55 */
